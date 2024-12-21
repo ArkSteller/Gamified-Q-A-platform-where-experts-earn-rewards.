@@ -8,7 +8,8 @@ The *Gamified Q&A Platform* introduces a seamless way to exchange knowledge by a
 🛠️ **Contract Address:**
 `0xd9145CCE52D386f254917e481eB44e9943F39138`
 
-![Platform Preview](https://github.com/user-attachments/assets/c66999b3-629f-4c0b-8d45-7bd7e08109a7)
+![image](https://github.com/user-attachments/assets/8bbd037c-d54d-46d8-b17e-f26dfd5e6064)
+
 
 ## 🔑 Key Features
 - **❓ Ask Questions with Rewards** - Attach monetary incentives to questions and spark valuable discussions.
